@@ -320,9 +320,16 @@ Built with ❤️ for educational excellence
 
 ## 📸 Screenshots
 
-<img width="1916" height="1076" alt="Screenshot 2026-06-11 182154" src="https://github.com/user-attachments/assets/bf96dd55-5553-492a-8501-1ee33e06e2d9" />
-<img width="1605" height="855" alt="Screenshot 2026-06-11 182236" src="https://github.com/user-attachments/assets/d396e19b-54ab-4851-a49f-17943a28b01f" />
-<img width="1919" height="1034" alt="Screenshot 2026-06-11 182211" src="https://github.com/user-attachments/assets/5e6d0b28-a008-408c-898c-191641158cc5" />
-<img width="536" height="663" alt="Screenshot 2026-06-11 182254" src="https://github.com/user-attachments/assets/7c5da82f-f76f-4ff5-8c51-b85b68d04b77" />
+### Login Screen
+![Login Screen](images/login.png)
+
+### Dashboard
+![Dashboard](images/dashboard.png)
+
+### Student Management
+![Student Management](images/students.png)
+
+### Add Student Form
+![Add Student Form](images/add-student.png)
 
 
