@@ -332,7 +332,8 @@ Built with ❤️ for educational excellence
 
 
 ### Add Student Form
-![Add Student Form]<img width="1605" height="855" alt="add-student" src="https://github.com/user-attachments/assets/f2b63a2b-c92c-4f14-980e-8f169983879c" />
+![Add Student Form]<img width="1605" height="855" alt="add-student" src="https://github.com/user-attachments/assets/e827c499-1139-4c39-a813-7c9156ba7c1e" />
+
 
 
 
