@@ -88,42 +88,43 @@ A complete, production-ready Student Management System built with **Java Swing**
 
 ---
 
+## 📁 Project Structure
+
+```
 Student-Management-System/
 │
 ├── src/
-│ ├── database/
-│ │ └── DatabaseConnection.java # Database connection handler
-│ │
-│ ├── model/
-│ │ └── Student.java # Student entity/model
-│ │
-│ ├── dao/
-│ │ ├── AdminDAO.java # Admin data access
-│ │ └── StudentDAO.java # Student CRUD operations
-│ │
-│ ├── service/
-│ │ ├── StudentService.java # Business logic
-│ │ └── ValidationService.java # Input validation
-│ │
-│ ├── ui/
-│ │ ├── LoginUI.java # Login screen
-│ │ ├── DashboardUI.java # Main dashboard
-│ │ ├── StudentManagementUI.java # Student management interface
-│ │ └── AddEditStudentUI.java # Add/Edit student form
-│ │
-│ └── Main.java # Application entry point
+│   ├── database/
+│   │   └── DatabaseConnection.java      # Database connection handler
+│   │
+│   ├── model/
+│   │   └── Student.java                  # Student entity/model
+│   │
+│   ├── dao/
+│   │   ├── AdminDAO.java                 # Admin data access
+│   │   └── StudentDAO.java               # Student CRUD operations
+│   │
+│   ├── service/
+│   │   ├── StudentService.java           # Business logic
+│   │   └── ValidationService.java        # Input validation
+│   │
+│   ├── ui/
+│   │   ├── LoginUI.java                  # Login screen
+│   │   ├── DashboardUI.java              # Main dashboard
+│   │   ├── StudentManagementUI.java      # Student management interface
+│   │   └── AddEditStudentUI.java         # Add/Edit student form
+│   │
+│   └── Main.java                         # Application entry point
 │
 ├── database/
-│ └── schema.sql # Database schema and sample data
+│   └── schema.sql                        # Database schema and sample data
 │
 ├── lib/
-│ └── mysql-connector-j-9.7.0.jar # MySQL JDBC driver
+│   └── mysql-connector-j-9.7.0.jar      # MySQL JDBC driver
 │
-├── README.md # Project documentation
-└── .gitignore # Git ignore file
-
-
----
+├── README.md                              # Project documentation
+└── .gitignore                             # Git ignore file
+```
 
 ## 📋 Prerequisites
 
