@@ -333,4 +333,3 @@ Built with ❤️ for educational excellence
 ![Add Student Form](images/add-student.png)
 
 
-![Login Screen](https://i.imgur.com/login.png)
