@@ -204,17 +204,7 @@ Password	admin123
 Note: Change the default password after first login for security.
 
 📸 Screenshots
-Login Screen
-https://screenshots/login.png
-
-Dashboard
-https://screenshots/dashboard.png
-
-Student Management
-https://screenshots/student-management.png
-
-Add/Edit Student
-https://screenshots/add-student.png
+For Screenshot images please refer to[ https://github.com/shrutim2804/Student-Management-System/images/images ]
 
 📖 Usage Guide
 Adding a New Student
@@ -318,18 +308,4 @@ All contributors and users of this project
 Built with ❤️ for educational excellence
 
 
-## 📸 Screenshots
 
-## Screenshots
-
-### Login Screen
-![Login Screen](images/login.png)
-
-### Dashboard
-![Dashboard](images/dashboard.png)
-
-### Student Management
-![Student Management](images/students.png)
-
-### Add Student Form
-![Add Student Form](images/add-student.png)
