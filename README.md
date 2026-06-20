@@ -240,7 +240,7 @@ $jar = "lib\mysql-connector-j-9.7.0.jar"; javac -cp $jar -d bin src\database\Dat
 
 ## Screenshots
 
-See the [images folder](https://github.com/shrutim2804/Student-Management-System/images/images) for application screenshots.
+See the [images folder](https://github.com/shrutim2804/Student-Management-System/tree/main/images/images) for application screenshots.
 
 ---
 
